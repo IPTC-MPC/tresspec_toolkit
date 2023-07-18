@@ -1,0 +1,25 @@
+axes.titlesize : 24
+axes.labelsize : 38
+axes.linewidth : 3.0
+lines.linewidth : 3
+lines.markersize : 10
+lines.markerfacecolor: 'None'
+lines.markeredgewidth: 2.0
+xtick.labelsize : 26
+xtick.major.size : 20
+xtick.major.width : 3
+xtick.direction : in
+xtick.top : True
+xtick.minor.size : 10
+xtick.minor.width : 2
+ytick.labelsize : 26
+ytick.major.size : 20
+ytick.major.width : 3
+ytick.direction : in
+ytick.right : True
+ytick.minor.size : 10
+ytick.minor.width : 2
+legend.fontsize	: 30
+xtick.major.pad : 10
+ytick.major.pad : 10
+font.size : 26

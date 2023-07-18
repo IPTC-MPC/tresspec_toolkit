@@ -1,0 +1,13 @@
+Change Log
+==========
+
+0.0.1 (02/03/2021)
+------------------
+- First release, under development
+
+==========
+
+0.0.2 (06/24/2021)
+------------------
+- A more robust and well-behaved version has been compiled, still containing several experimental functions
+

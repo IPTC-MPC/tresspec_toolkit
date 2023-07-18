@@ -1,0 +1,10 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: documentation.aux
+The style file: biblatex.bst
+I couldn't open database file N:/Unruh/Master/literature/literature.bib
+---line 22 of file documentation.aux
+ : \bibdata{documentation-blx,N:/Unruh/Master/literature/literature
+ :                                                                 ,N:/Unruh/Master/literature/PBEh-3c/PBEh-3c,N:/Unruh/Master/literature/ORCA_def2-TZVP/ORCA_def2-TZVP}
+I'm skipping whatever remains of this command
+Database file #1: documentation-blx.bib
+Biblatex version: 3.11
+(There was 1 error message)
